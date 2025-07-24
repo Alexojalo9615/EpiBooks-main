@@ -1,0 +1,49 @@
+/* Cards */
+
+.book-card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .book-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+  }
+  
+  .card-image-container {
+    overflow: hidden;
+  }
+  
+  .card-image-container:hover {
+    transform: scale(1.05);
+  }
+
+  .selected .card-image-container {
+    border: 3px solid red;
+    border-radius: 4px;
+  }
+
+  .hover-card {
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+  }
+  
+  .hover-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+  }
+  
+  .comment-list {
+    background-color: #f8f9fa;
+    border-radius: 0.375rem;
+    padding: 1rem;
+  }
+  
+  .badge {
+    font-size: 0.9em;
+    padding: 0.5em 1em;
+  }
+  
+  code {
+    background-color: #f8f9fa;
+    padding: 0.2em 0.4em;
+    border-radius: 0.25rem;
+  }
