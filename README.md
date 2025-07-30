@@ -23,3 +23,6 @@ EpciBooks is a beginner-friendly web application that displays a list of books a
 **Responsive UI & Styling**
 - Built with React Bootstrap for responsive grid layout
 - Custom CSS in App.css for highlighting and layout tweaks
+
+## 🧪 How to Run The Project
+
