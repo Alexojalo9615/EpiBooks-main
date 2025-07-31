@@ -26,3 +26,13 @@ EpciBooks is a beginner-friendly web application that displays a list of books a
 
 ## 🧪 How to Run The Project
 
+**Open Powershell & Clone the Repository**
+- git clone https://github.com/Alexojalo9615/EpiBooks-main.git
+- cd EpiBooks-main
+
+**Install dependencies**
+- npm install
+
+**Start the development server**
+- npm start
+
