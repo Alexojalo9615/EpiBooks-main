@@ -36,3 +36,7 @@ EpciBooks is a beginner-friendly web application that displays a list of books a
 **Start the development server**
 - npm start
 
+## ⚠️ Attention 
+We're sorry, but we can't display reviews submitted before July 31, 2025 because the original authentication tokens from the Strive account are no longer available.
+You're welcome to leave a new one!
+
